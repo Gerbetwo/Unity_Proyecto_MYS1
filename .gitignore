@@ -1,0 +1,35 @@
+# ============= Unity Generated =============
+# Nunca subir estas carpetas, Unity las regenera
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+/MemoryCaptures/
+
+# ============= Unity Cache =============
+/Library/PackageCache/
+/Library/ShaderCache/
+
+# ============= User Specific / IDE ============
+# Visual Studio / Rider / VSCode
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+.vscode/
+.idea/
+
+# ============= OS Generated =============
+.DS_Store
+Thumbs.db
+
+# ============= (Opcional) Grandes binarios con LFS ============
+# Descomenta si usas Git LFS para manejar assets pesados
+#*.psd
+#*.png
+#*.wav
+#*.mp4
